@@ -8,4 +8,4 @@ TyNote is a PWA. You can install it as a native app on your device. <br><br>
 
 
 ### Preview
-[Tynote on Netlify](https://typnote.netlify.app)
+[TypNote on Netlify](https://typnote.netlify.app)
