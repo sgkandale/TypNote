@@ -45,8 +45,7 @@ function App() {
     // Function to delete note
     const deleteNote = async(id) => {
         db.notes.delete(id);
-        let allNotes = await db.notes.toArray();
-        setNotes(allNotes);
+        getNotes();
     };
 
     // Number of notes
