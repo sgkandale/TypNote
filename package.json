@@ -11,9 +11,9 @@
     "lowdb": "^1.0.0",
     "pouchdb": "^7.2.1",
     "pouchdb-browser": "^7.2.1",
-    "react": "^16.13.1",
+    "react": "^16.14.0",
     "react-device-detect": "^1.12.1",
-    "react-dom": "^16.13.1",
+    "react-dom": "^16.14.0",
     "react-scripts": "3.4.1"
   },
   "scripts": {
